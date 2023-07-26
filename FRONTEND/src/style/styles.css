@@ -1,0 +1,10 @@
+.login-form{
+    border-radius: 30px !important;
+}
+.form-control{
+    border-radius: 30px !important;
+}
+.btn-block{
+    color: white;
+    font-weight: 500;
+}
